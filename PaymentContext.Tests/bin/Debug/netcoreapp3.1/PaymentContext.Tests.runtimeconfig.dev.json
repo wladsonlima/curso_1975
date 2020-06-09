@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wladson.lima\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wladson.lima\\.nuget\\packages"
+    ]
+  }
+}
