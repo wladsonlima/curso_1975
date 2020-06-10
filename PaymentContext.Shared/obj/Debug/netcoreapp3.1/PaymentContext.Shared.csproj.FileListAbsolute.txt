@@ -1,0 +1,9 @@
+C:\Users\wladson.lima\Documents\3-cursos\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp3.1\PaymentContext.Shared.deps.json
+C:\Users\wladson.lima\Documents\3-cursos\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp3.1\PaymentContext.Shared.dll
+C:\Users\wladson.lima\Documents\3-cursos\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp3.1\PaymentContext.Shared.pdb
+C:\Users\wladson.lima\Documents\3-cursos\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.csprojAssemblyReference.cache
+C:\Users\wladson.lima\Documents\3-cursos\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\Users\wladson.lima\Documents\3-cursos\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.AssemblyInfo.cs
+C:\Users\wladson.lima\Documents\3-cursos\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+C:\Users\wladson.lima\Documents\3-cursos\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.dll
+C:\Users\wladson.lima\Documents\3-cursos\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp3.1\PaymentContext.Shared.pdb

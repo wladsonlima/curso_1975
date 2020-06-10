@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CEFnvLJsVHOgzR6aenol2lAffa7pM6zYZwuUAIXYwaYqa794FS5VUEkkLhnXnXEX43reNa5eAOmatnNIsy+vsw==",
+  "dgSpecHash": "5HnTQ5RW24v27g963VJ+UUm21yuOe58JjfeRgkY7Yhq5ujKtLLDylkHbEDPTwUyPquXFIbu/FQDYyqbb/icytw==",
   "success": true,
   "projectFilePath": "C:\\Users\\wladson.lima\\Documents\\3-cursos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\wladson.lima\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\wladson.lima\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
