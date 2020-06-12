@@ -1,14 +1,18 @@
 ﻿using PaymentContext.Domain.Entities;
+using PaymentContext.Domain.ValueObjects;
 
 namespace PaymentContext.Tests.Entities
 {
     public class StudentTest
     {
-        public void TestMod()
+        public void AdicionarAssinatura()
         {
-            // var sub = new Subscription(null);
-            // var student = new Student("WLADSON", "LIMA", "79556", "WLAD.FRAL@GMAIL.COM");
-            // student.AddSubscripiton(sub);
+            var name = new Name("Teste", "Teste");
+
+            foreach (var notification in name.Notifications)
+            {
+                //otification.Message;
+            }
         }
     }
 }
